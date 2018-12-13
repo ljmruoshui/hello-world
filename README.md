@@ -1,9 +1,9 @@
 # hello-world
 original try
 
-hi, github,
+Hi, github,
   My name is Melinda, here is my first time to use this project.
-  Hope have a good beginness.
+  Hope to have a good beginness.
   
 BR,
 Melinda
